@@ -11,12 +11,9 @@ Dit document wordt gesynchroniseerd terwijl u typt, zodat iedereen die deze pagi
 
 ----------------------------------------------------------------------------
 
+Samenwerkingsdocument dag 1: https://github.com/esciencecenter-digital-skills/2025-02-03-ds-rss-masterclass-DCC-PO/tree/main/files/samenwerkingsdocument-dag1.md
 
-Dit is het document voor vandaag: edu.nl/df9v6
-
-Samenwerkingsdocument dag 1: edu.nl/df9v6
-
-Samenwerkingsdocument dag 2: edu.nl/ggk8g
+Samenwerkingsdocument dag 2: https://github.com/esciencecenter-digital-skills/2025-02-03-ds-rss-masterclass-DCC-PO/tree/main/files/samenwerkingsdocument-dag2.md
 
 
 ##  🫱🏽‍🫲🏻 Gedragscode

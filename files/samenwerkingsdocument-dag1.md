@@ -89,9 +89,16 @@ Vraag uw certificaat binnen 8 maanden na de workshop aan, aangezien wij na deze 
 
 ## :snowflake: IJsbreker
 
-Je bent een uitvinder (Professor Punt) met onbeperkte hoeveelheid middelen en geld. 
-![](https://codimd.carpentries.org/uploads/upload_366803b48d2b6e8ac2da11c706f0466e.png)
 
+![](https://live.staticflickr.com/1649/23838133264_fdca405e3b_b.jpg)
+
+Jean Dulieu, Paulus en Professor Punt 1956 ill pg 128, photo by [Jan Willemsen](https://www.flickr.com/photos/8725928@N02/) on [flickr.com](https://www.flickr.com/photos/8725928@N02/albums/72157646408820623/)
+
+Shared under [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)
+
+1. (Inidividueel) Je bent een uitvinder (Professor Punt) met alle tijd en geld en vrijheid om uitvindingen te doen. Bedenk wat je volgende geweldige uitvinding zou zijn om een ontzettend lastig, maar klein probleem op te lossen. (E.g. het fluiten van de fluitketel is altijd zo hard, de pannenkoeken blijven altijd plakken, je moet altijd zoveel spaties typen in een tekst, etc.)
+
+2. (In groepjes) Budget cuts! Het management heeft besloten jouw project samen te voegen met een aantal collega's en jullie moeten samen financiering binnenhalen voor het project. Bespreek met de mensen van je groepje hoe je jullie verschillende projecten kunt combineren tot 1 mega uitvinding en bereid een elevator-pitch voor van 1 minuut om de geldschieters te overtuigen om jullie project te financieren. 
 
 ## 🔧 Oefeningen
 
